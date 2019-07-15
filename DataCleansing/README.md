@@ -1,6 +1,6 @@
 ## Crate links to the dataset
-ln -s m2cai_dataset_path/ m2cai16-workflow-5
-ln -s cholec_dataset_path/ cholec80-workflow-5
+```ln -s m2cai_dataset_path/ m2cai16-workflow-5
+ln -s cholec_dataset_path/ cholec80-workflow-5```
 
 ## Cleanse training set with cross-validation
 ```
