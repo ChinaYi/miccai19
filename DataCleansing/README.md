@@ -1,7 +1,8 @@
 ## Crate links to the dataset
-```ln -s m2cai_dataset_path/ m2cai16-workflow-5
-ln -s cholec_dataset_path/ cholec80-workflow-5```
-
+```
+ln -s m2cai_dataset_path/ m2cai16-workflow-5
+ln -s cholec_dataset_path/ cholec80-workflow-5
+```
 ## Cleanse training set with cross-validation
 ```
 python main.py --dataset=m2cai16-workflow-5 --cleansing=workflow_video_01#workflow_video_02 --savepath=cleansing_one_fold -ground_truth_path=annotation_folder
