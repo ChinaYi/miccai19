@@ -9,6 +9,8 @@ GPU Memory >= 9000mb
 
 ## Download the Dataset
 We downsample the videos at 5fps. We recommand you download the dataset with this link: 
+https://mega.nz/#!rEN2FCwB!VEChVilyX2yGpge_pjfjNuu8qH6qeFX6q5b8_v_ydVw
+
 
 ## DataCleaning
 The folder 'DataCleaning' contains the code for data cleansing step. This step is time-costing, so, we suggest to use the data cleansing results that are contained in the link we provided.
