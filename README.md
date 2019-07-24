@@ -10,6 +10,7 @@ GPU Memory >= 9000mb
 ## Download the Dataset
 We downsample the videos at 5fps. We recommand you download the dataset with this link: 
 https://mega.nz/#!rEN2FCwB!VEChVilyX2yGpge_pjfjNuu8qH6qeFX6q5b8_v_ydVw
+https://mega.nz/#!zqZkGaBT!P5hhMe_BuyM3RQPRu0jdJR-x3EEmcB0cAe0BOxw5-_U
 
 
 ## DataCleaning
