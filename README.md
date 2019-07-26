@@ -18,5 +18,10 @@ The folder 'DataCleaning' contains the code for data cleansing step. This step i
 
 ## OHFM
 The folder 'OHFM' contains the code for OHFM.
+Download the pretrained model and data, run the command:
+```
+ python main.py --dataset=cholec80-workflow-5 --savepath=test_result
+```
+
 
 utils_2.py: Code for drawing segment bars.
