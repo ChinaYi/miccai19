@@ -34,7 +34,7 @@ from torchvision.datasets.folder import default_loader
 
 
 batch_size = 64
-epochs = 10
+epochs = 5
 lr = 5e-4
 l2_decay = 5e-5
 
