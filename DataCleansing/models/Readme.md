@@ -3,4 +3,4 @@ Download the pretrained model with this link:
 https://pan.baidu.com/s/1g81JETTWy-ptlATi__nmYg
 
 or with the mega:
-https://mega.nz/#F!3BdXxArI
+https://mega.nz/#F!DUMRTYAA!uSQ-Fqdqg3YafLyN1M-kNw
